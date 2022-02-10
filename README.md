@@ -1,3 +1,4 @@
-# meu-primeiro-repositorio-electric-boogaloo
+# Meu Quinto Repositório
 Já é a 5° vez que eu tento fazer isso mas eu ainda não caí
-##Estou fazendo esse repositório por conta de um desafio da DIO.me. Ele não tem muita coisa, só a primeira passagem de "Um Escândalo na Boêmia", já que é um dos meus livros preferidos e o instrutor não especificou o nível de complexidade do repositório. Mesmo assim, acho que é um grande progresso ter conseguido chegar até aqui, porque nas primeiras tentativas eu falhei. 
+
+## Esse repositório não tem nada de mais. O instrutor encorajou colocar anotações, mas já as coloco em outro aplicativo (Notion.so) então decidi colocar apenas um trecho de um dos meus livros favoritos que está em domínio público.
